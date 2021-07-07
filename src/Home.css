@@ -18,3 +18,13 @@
   margin-left: 5px;
   margin-right: 5px;
 }
+.new_added {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.new_added .product {
+  width: 30%;
+}
